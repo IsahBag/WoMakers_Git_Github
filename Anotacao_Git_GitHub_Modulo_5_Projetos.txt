@@ -1,0 +1,36 @@
+Criando um projeto:
+  Ir no repositório
+  Ir em 'Projects'
+  'Create a new project'
+  Adicionar nome e descrição
+  Escolher um template
+    Automated Kanban
+
+
+Adicionando cards:
+  Abrir o projeto criado
+  Ir em + Add Cards (pode ser feito direto no painel respectivo clicando em +)
+
+
+Manipulando os cards:
+  Pode arrastar com o mouse de um painel para outro
+  Pode converter em issue
+  Pode adicionar uma descrição, atribuir a alguma pessoa
+  Pode vincular com alguma pull request
+  Pode fechar a issue
+
+
+Criando issues:
+  New issue
+  Inserir título e descrição (pode fazer um checklist)
+  Assinar
+  Pode selecionar ou criar uma nova label
+
+
+Fazendo pull request para encerrar as issues:
+No VSCode:
+  git checkout -b [criar-nova-branch]
+  git push
+  abrir a pull request
+  criar a pull request
+  linkar com o issue correspondente

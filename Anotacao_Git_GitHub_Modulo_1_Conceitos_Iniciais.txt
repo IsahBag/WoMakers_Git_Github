@@ -1,0 +1,52 @@
+Git e GitHub
+
+Versionamento
+Controle de versões definido através de "numerações" de históricos 
+diferentes = referência
+Permite que as pessoas saibam o que foi alterado
+
+Repositório
+Pasta para armazenamento do projento, podendo ser subdivido em módulos
+de acordo com os objetivos do projeto
+todo repositório tem um arquivo .git
+
+Commit
+Conjunto de alterações do código, para fins de registro/salvamento dessas
+alterações
+possui uma alteração e uma mensagem descritiva
+criação, renomeação ou exclusão de arquivos e inserção ou excluir uma 
+linha são consideradas mudanças
+
+Branch
+São separações de cógido, possibilitando que mais pessoas atuem no mesmo
+projeto de forma independente
+Brunch master: branch inicial
+Develop: para uso em tempo de desenvolvimento
+Homolog: para teste e validação
+Master: brunch principal
+
+Merge
+junção da alteração de duas branchs
+
+Clone
+transfência de cópia do repositório em nossa máquina
+
+Pull
+atualiza o repositório localmente, realizando um merge do respositório
+online com a que temos em nossa máquina
+
+Push
+atualiza o respositório remoto utilizando a atualizaçao no repositório
+da máquina
+
+Fork
+é semelhanto ao clone, porém só ocorre na interface gráfica do GitHub,
+copiando o respositório outra pessoa para nossa conta
+
+Pull Request
+após forkar um repositório, podemos resolver issues dele, e fazer pull
+resquest enviando solução dos error e adicionando novo conteúdo
+a pessoa ira avaliar a pull request e se concordar com as alterações
+irá fazer o merge dos repositórios
+
+

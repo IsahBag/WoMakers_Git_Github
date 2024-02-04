@@ -1,0 +1,9 @@
+Markdown:
+
+# título maior
+## título médio
+### título menor
+
+[nome](link) - cria um link clicável
+
+-[] texto  - cria um checklist
